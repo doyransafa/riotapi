@@ -1,0 +1,590 @@
+[
+    {
+        "summonerStats": [
+            {
+                "summonerName": "ForNooW",
+                "team": "Red",
+                "win": false,
+                "role": "TOP",
+                "champion": {
+                    "name": "Gangplank",
+                    "level": 17,
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/champion/Gangplank.png"
+                },
+                "summonerSpell1": {
+                    "id": 14,
+                    "name": "Ignite",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/spell/SummonerDot.png"
+                },
+                "summonerSpell2": {
+                    "id": 4,
+                    "name": "Flash",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/spell/SummonerFlash.png"
+                },
+                "itemSlot0": {
+                    "name": "Mortal Reminder",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3033.png"
+                },
+                "itemSlot1": {
+                    "name": "Prowler's Claw",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/6693.png"
+                },
+                "itemSlot2": {
+                    "name": "Plated Steelcaps",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3047.png"
+                },
+                "itemSlot3": {
+                    "name": "Essence Reaver",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3508.png"
+                },
+                "itemSlot4": {
+                    "name": "Navori Quickblades",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/6675.png"
+                },
+                "itemSlot5": {
+                    "name": "Serrated Dirk",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3134.png"
+                },
+                "itemSlot6": {
+                    "name": "Oracle Lens",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3364.png"
+                },
+                "kills": 6,
+                "deaths": 5,
+                "assists": 13,
+                "KDA": "6/5/13",
+                "killPlusAssistPerDeath": 3.8,
+                "controlWards": 2,
+                "totalCS": 242,
+                "totalDamageDealtToChampions": 35134,
+                "totalDamageTaken": 28118
+            },
+            {
+                "summonerName": "Glyphé",
+                "team": "Red",
+                "win": false,
+                "role": "JUNGLE",
+                "champion": {
+                    "name": "Shaco",
+                    "level": 14,
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/champion/Shaco.png"
+                },
+                "summonerSpell1": {
+                    "id": 11,
+                    "name": "Smite",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/spell/SummonerSmite.png"
+                },
+                "summonerSpell2": {
+                    "id": 14,
+                    "name": "Ignite",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/spell/SummonerDot.png"
+                },
+                "itemSlot0": {
+                    "name": "The Collector",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/6676.png"
+                },
+                "itemSlot1": {
+                    "name": "Duskblade of Draktharr",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/6691.png"
+                },
+                "itemSlot2": {
+                    "name": "Berserker's Greaves",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3006.png"
+                },
+                "itemSlot3": {
+                    "name": "Last Whisper",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3035.png"
+                },
+                "itemSlot4": {
+                    "name": "Empty",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/0.png"
+                },
+                "itemSlot5": {
+                    "name": "Essence Reaver",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3508.png"
+                },
+                "itemSlot6": {
+                    "name": "Oracle Lens",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3364.png"
+                },
+                "kills": 11,
+                "deaths": 12,
+                "assists": 12,
+                "KDA": "11/12/12",
+                "killPlusAssistPerDeath": 1.9166666666666667,
+                "controlWards": 3,
+                "totalCS": 126,
+                "totalDamageDealtToChampions": 18246,
+                "totalDamageTaken": 33652
+            },
+            {
+                "summonerName": "5qZ1Fx",
+                "team": "Red",
+                "win": false,
+                "role": "MIDDLE",
+                "champion": {
+                    "name": "Vladimir",
+                    "level": 15,
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/champion/Vladimir.png"
+                },
+                "summonerSpell1": {
+                    "id": 6,
+                    "name": "Ghost",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/spell/SummonerHaste.png"
+                },
+                "summonerSpell2": {
+                    "id": 4,
+                    "name": "Flash",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/spell/SummonerFlash.png"
+                },
+                "itemSlot0": {
+                    "name": "Shadowflame",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/4645.png"
+                },
+                "itemSlot1": {
+                    "name": "Night Harvester",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/4636.png"
+                },
+                "itemSlot2": {
+                    "name": "Sorcerer's Shoes",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3020.png"
+                },
+                "itemSlot3": {
+                    "name": "Void Staff",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3135.png"
+                },
+                "itemSlot4": {
+                    "name": "Empty",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/0.png"
+                },
+                "itemSlot5": {
+                    "name": "Empty",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/0.png"
+                },
+                "itemSlot6": {
+                    "name": "Stealth Ward",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3340.png"
+                },
+                "kills": 6,
+                "deaths": 13,
+                "assists": 15,
+                "KDA": "6/13/15",
+                "killPlusAssistPerDeath": 1.6153846153846154,
+                "controlWards": 2,
+                "totalCS": 127,
+                "totalDamageDealtToChampions": 33837,
+                "totalDamageTaken": 43897
+            },
+            {
+                "summonerName": "CruelKnight",
+                "team": "Red",
+                "win": false,
+                "role": "BOTTOM",
+                "champion": {
+                    "name": "Vayne",
+                    "level": 16,
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/champion/Vayne.png"
+                },
+                "summonerSpell1": {
+                    "id": 7,
+                    "name": "Cleanse",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/spell/SummonerHeal.png"
+                },
+                "summonerSpell2": {
+                    "id": 4,
+                    "name": "Flash",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/spell/SummonerFlash.png"
+                },
+                "itemSlot0": {
+                    "name": "Mortal Reminder",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3033.png"
+                },
+                "itemSlot1": {
+                    "name": "Kraken Slayer",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/6672.png"
+                },
+                "itemSlot2": {
+                    "name": "Berserker's Greaves",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3006.png"
+                },
+                "itemSlot3": {
+                    "name": "Blade of The Ruined King",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3153.png"
+                },
+                "itemSlot4": {
+                    "name": "Phantom Dancer",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3046.png"
+                },
+                "itemSlot5": {
+                    "name": "Vampiric Scepter",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/1053.png"
+                },
+                "itemSlot6": {
+                    "name": "Stealth Ward",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3340.png"
+                },
+                "kills": 10,
+                "deaths": 10,
+                "assists": 10,
+                "KDA": "10/10/10",
+                "killPlusAssistPerDeath": 2,
+                "controlWards": 0,
+                "totalCS": 197,
+                "totalDamageDealtToChampions": 25939,
+                "totalDamageTaken": 29826
+            },
+            {
+                "summonerName": "TRUVA CarRy",
+                "team": "Red",
+                "win": false,
+                "role": "UTILITY",
+                "champion": {
+                    "name": "Bard",
+                    "level": 15,
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/champion/Bard.png"
+                },
+                "summonerSpell1": {
+                    "id": 14,
+                    "name": "Ignite",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/spell/SummonerDot.png"
+                },
+                "summonerSpell2": {
+                    "id": 4,
+                    "name": "Flash",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/spell/SummonerFlash.png"
+                },
+                "itemSlot0": {
+                    "name": "Shard of True Ice",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3853.png"
+                },
+                "itemSlot1": {
+                    "name": "Shurelya's Battlesong",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/2065.png"
+                },
+                "itemSlot2": {
+                    "name": "Mikael's Blessing",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3222.png"
+                },
+                "itemSlot3": {
+                    "name": "Boots of Swiftness",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3009.png"
+                },
+                "itemSlot4": {
+                    "name": "Dead Man's Plate",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3742.png"
+                },
+                "itemSlot5": {
+                    "name": "Bramble Vest",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3076.png"
+                },
+                "itemSlot6": {
+                    "name": "Oracle Lens",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3364.png"
+                },
+                "kills": 5,
+                "deaths": 7,
+                "assists": 20,
+                "KDA": "5/7/20",
+                "killPlusAssistPerDeath": 3.5714285714285716,
+                "controlWards": 1,
+                "totalCS": 38,
+                "totalDamageDealtToChampions": 20276,
+                "totalDamageTaken": 35152
+            },
+            {
+                "summonerName": "NohutDürüm27",
+                "team": "Blue",
+                "win": true,
+                "role": "TOP",
+                "champion": {
+                    "name": "Nasus",
+                    "level": 17,
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/champion/Nasus.png"
+                },
+                "summonerSpell1": {
+                    "id": 4,
+                    "name": "Flash",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/spell/SummonerFlash.png"
+                },
+                "summonerSpell2": {
+                    "id": 12,
+                    "name": "Teleport",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/spell/SummonerTeleport.png"
+                },
+                "itemSlot0": {
+                    "name": "Gargoyle Stoneplate",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3193.png"
+                },
+                "itemSlot1": {
+                    "name": "Trinity Force",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3078.png"
+                },
+                "itemSlot2": {
+                    "name": "Plated Steelcaps",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3047.png"
+                },
+                "itemSlot3": {
+                    "name": "Force of Nature",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/4401.png"
+                },
+                "itemSlot4": {
+                    "name": "Dead Man's Plate",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3742.png"
+                },
+                "itemSlot5": {
+                    "name": "Kindlegem",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3067.png"
+                },
+                "itemSlot6": {
+                    "name": "Stealth Ward",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3340.png"
+                },
+                "kills": 7,
+                "deaths": 6,
+                "assists": 11,
+                "KDA": "7/6/11",
+                "killPlusAssistPerDeath": 3,
+                "controlWards": 1,
+                "totalCS": 185,
+                "totalDamageDealtToChampions": 27599,
+                "totalDamageTaken": 50957
+            },
+            {
+                "summonerName": "Furu",
+                "team": "Blue",
+                "win": true,
+                "role": "MIDDLE",
+                "champion": {
+                    "name": "Leblanc",
+                    "level": 18,
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/champion/Leblanc.png"
+                },
+                "summonerSpell1": {
+                    "id": 4,
+                    "name": "Flash",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/spell/SummonerFlash.png"
+                },
+                "summonerSpell2": {
+                    "id": 14,
+                    "name": "Ignite",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/spell/SummonerDot.png"
+                },
+                "itemSlot0": {
+                    "name": "Luden's Tempest",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/6655.png"
+                },
+                "itemSlot1": {
+                    "name": "Shadowflame",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/4645.png"
+                },
+                "itemSlot2": {
+                    "name": "Dark Seal",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/1082.png"
+                },
+                "itemSlot3": {
+                    "name": "Rabadon's Deathcap",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3089.png"
+                },
+                "itemSlot4": {
+                    "name": "Blasting Wand",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/1026.png"
+                },
+                "itemSlot5": {
+                    "name": "Sorcerer's Shoes",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3020.png"
+                },
+                "itemSlot6": {
+                    "name": "Farsight Alteration",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3363.png"
+                },
+                "kills": 9,
+                "deaths": 4,
+                "assists": 6,
+                "KDA": "9/4/6",
+                "killPlusAssistPerDeath": 3.75,
+                "controlWards": 3,
+                "totalCS": 234,
+                "totalDamageDealtToChampions": 32794,
+                "totalDamageTaken": 29638
+            },
+            {
+                "summonerName": "lDaRKSeiD",
+                "team": "Blue",
+                "win": true,
+                "role": "JUNGLE",
+                "champion": {
+                    "name": "Rengar",
+                    "level": 18,
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/champion/Rengar.png"
+                },
+                "summonerSpell1": {
+                    "id": 4,
+                    "name": "Flash",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/spell/SummonerFlash.png"
+                },
+                "summonerSpell2": {
+                    "id": 11,
+                    "name": "Smite",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/spell/SummonerSmite.png"
+                },
+                "itemSlot0": {
+                    "name": "The Collector",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/6676.png"
+                },
+                "itemSlot1": {
+                    "name": "Duskblade of Draktharr",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/6691.png"
+                },
+                "itemSlot2": {
+                    "name": "Ionian Boots of Lucidity",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3158.png"
+                },
+                "itemSlot3": {
+                    "name": "Ravenous Hydra",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3074.png"
+                },
+                "itemSlot4": {
+                    "name": "Essence Reaver",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3508.png"
+                },
+                "itemSlot5": {
+                    "name": "B. F. Sword",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/1038.png"
+                },
+                "itemSlot6": {
+                    "name": "Stealth Ward",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3340.png"
+                },
+                "kills": 24,
+                "deaths": 10,
+                "assists": 2,
+                "KDA": "24/10/2",
+                "killPlusAssistPerDeath": 2.6,
+                "controlWards": 1,
+                "totalCS": 150,
+                "totalDamageDealtToChampions": 39826,
+                "totalDamageTaken": 41448
+            },
+            {
+                "summonerName": "CeCeMaRu",
+                "team": "Blue",
+                "win": true,
+                "role": "BOTTOM",
+                "champion": {
+                    "name": "Ashe",
+                    "level": 17,
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/champion/Ashe.png"
+                },
+                "summonerSpell1": {
+                    "id": 4,
+                    "name": "Flash",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/spell/SummonerFlash.png"
+                },
+                "summonerSpell2": {
+                    "id": 7,
+                    "name": "Cleanse",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/spell/SummonerHeal.png"
+                },
+                "itemSlot0": {
+                    "name": "Blade of The Ruined King",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3153.png"
+                },
+                "itemSlot1": {
+                    "name": "Berserker's Greaves",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3006.png"
+                },
+                "itemSlot2": {
+                    "name": "Immortal Shieldbow",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/6673.png"
+                },
+                "itemSlot3": {
+                    "name": "Guinsoo's Rageblade",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3124.png"
+                },
+                "itemSlot4": {
+                    "name": "Lord Dominik's Regards",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3036.png"
+                },
+                "itemSlot5": {
+                    "name": "Long Sword",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/1036.png"
+                },
+                "itemSlot6": {
+                    "name": "Stealth Ward",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3340.png"
+                },
+                "kills": 3,
+                "deaths": 10,
+                "assists": 17,
+                "KDA": "3/10/17",
+                "killPlusAssistPerDeath": 2,
+                "controlWards": 0,
+                "totalCS": 228,
+                "totalDamageDealtToChampions": 25864,
+                "totalDamageTaken": 29952
+            },
+            {
+                "summonerName": "Rav3x",
+                "team": "Blue",
+                "win": true,
+                "role": "UTILITY",
+                "champion": {
+                    "name": "Thresh",
+                    "level": 14,
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/champion/Thresh.png"
+                },
+                "summonerSpell1": {
+                    "id": 14,
+                    "name": "Ignite",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/spell/SummonerDot.png"
+                },
+                "summonerSpell2": {
+                    "id": 4,
+                    "name": "Flash",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/spell/SummonerFlash.png"
+                },
+                "itemSlot0": {
+                    "name": "Pauldrons of Whiterock",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3857.png"
+                },
+                "itemSlot1": {
+                    "name": "Locket of the Iron Solari",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3190.png"
+                },
+                "itemSlot2": {
+                    "name": "Randuin's Omen",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3143.png"
+                },
+                "itemSlot3": {
+                    "name": "Thornmail",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3075.png"
+                },
+                "itemSlot4": {
+                    "name": "Plated Steelcaps",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3047.png"
+                },
+                "itemSlot5": {
+                    "name": "Empty",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/0.png"
+                },
+                "itemSlot6": {
+                    "name": "Oracle Lens",
+                    "img": "http://ddragon.leagueoflegends.com/cdn/13.4.1/img/item/3364.png"
+                },
+                "kills": 3,
+                "deaths": 9,
+                "assists": 17,
+                "KDA": "3/9/17",
+                "killPlusAssistPerDeath": 2.2222222222222223,
+                "controlWards": 2,
+                "totalCS": 44,
+                "totalDamageDealtToChampions": 10410,
+                "totalDamageTaken": 28672
+            }
+        ],
+        "gameDuration": 2066,
+        "gameEndTimestamp": 1678402623710,
+        "queue": "Ranked Flex Queue",
+        "matchId": "TR1_1388309565"
+    }
+]

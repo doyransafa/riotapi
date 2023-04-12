@@ -1,0 +1,52 @@
+{
+    "21": {
+        "id" : "SummonerBarrier",
+        "name": "Barrier",
+        "img": "SummonerBarrier.png"
+    },
+    "3": {
+        "id" : "SummonerExhaust",
+        "name": "Exhaust",
+        "img": "SummonerExhaust.png"
+    },
+    "4": {
+        "id" : "SummonerFlash",
+        "name": "Flash",
+        "img": "SummonerFlash.png"
+    },
+    "6": {
+        "id" : "SummonerHaste",
+        "name": "Ghost",
+        "img": "SummonerHaste.png"
+    },
+    "14": {
+        "id" : "SummonerDot",
+        "name": "Ignite",
+        "img": "SummonerDot.png"
+    },
+    "1": {
+        "id" : "SummonerBoost",
+        "name": "Cleanse",
+        "img": "SummonerBoost.png"
+    },
+    "7": {
+        "id" : "SummonerHeal",
+        "name": "Cleanse",
+        "img": "SummonerHeal.png"
+    },
+    "11": {
+        "id" : "SummonerSmite",
+        "name": "Smite",
+        "img": "SummonerSmite.png"
+    },
+    "12": {
+        "id" : "SummonerTeleport",
+        "name": "Teleport",
+        "img": "SummonerTeleport.png"
+    },
+    "13": {
+        "id" : "SummonerMana",
+        "name": "Clarity",
+        "img": "SummonerMana.png"
+    }
+}
